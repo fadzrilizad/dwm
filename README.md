@@ -17,29 +17,28 @@ make && sudo make clean install
 
 ## Note
  
-|modfiers                     |function                             |
-|-----------------------------|-------------------------------------|
-|alt                          |modkey                               |
-|alt+shift+enter              |open terminal                        |
-|alt+p                        |open dmenu                           |
-|alt+shift+q                  |quit window                          |
-|alt+shift+r                  |restart dwm                          | 
-|alt+number                   |go to workspace number               | 
-|alt+shift+number             |move window to workspace number      |
-|alt+l                        |resize window to the right           |
-|alt+h                        |resize window to the left            |
-|alt+j / k                    |move between window j=up k=down      |
-|alt+shift j / k              |change window location               | 
-|ctrl+shift+pageUp / pageDown |zoom terminal                        | 
-|alt+space                    |toggle floating window               |
-|alt+b                        |toggle bar                           |
-|alt+tab                      |change active workspace              |
-|alt+shift+space              |change current window to floating    |
-|alt+i                        |increase stact (horizontal view)     |
-|alt+d                        |decrease stact (vertical view)       |
-|alt+m                        |make all window fullscreen           |
-|alt+f                        |next window will be floating         |
-|alt+t                        |make fullscreen / floating normal    |
-|alt+0                        |view all window in one workspace     |
-|alt+shift+0                  |open current in all workspace        |
-
+|modfiers                     |function                                     |
+|-----------------------------|---------------------------------------------|
+|alt                          |modkey                                       |
+|alt+shift+enter              |open terminal                                |
+|alt+p                        |open dmenu                                   |
+|alt+shift+q                  |quit window                                  |
+|alt+shift+r                  |restart dwm                                  | 
+|alt+number                   |go to workspace number                       |         
+|alt+shift+number             |move window to workspace number / close tag  |
+|alt+l                        |resize window to the right                   |
+|alt+h                        |resize window to the left                    |
+|alt+j / k                    |move between window j=up k=down              |
+|alt+shift j / k              |change window location                       | 
+|ctrl+shift+pageUp / pageDown |zoom terminal                                |         
+|alt+space                    |toggle floating window                       |
+|alt+b                        |toggle bar                                   |
+|alt+tab                      |change active workspace                      |
+|alt+shift+space              |change current window to floating            |
+|alt+i                        |increase stact (horizontal view)             |
+|alt+d                        |decrease stact (vertical view)               |
+|alt+m                        |make all window fullscreen                   |
+|alt+f                        |next window will be floating                 |
+|alt+t                        |make fullscreen / floating normal            |
+|alt+0                        |view all window in one workspace             |
+|alt+shift+0                  |open current in all workspace                |
