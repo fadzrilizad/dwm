@@ -40,6 +40,6 @@ make && sudo make clean install
 |alt+m                        |make all window fullscreen           |
 |alt+f                        |next window will be floating         |
 |alt+t                        |make fullscreen / floating normal    |
-|alt+0                        |view current window in all workspace |
+|alt+0                        |view all window in one workspace     |
 |alt+shift+0                  |open current in all workspace        |
 
